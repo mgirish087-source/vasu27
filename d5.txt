@@ -1,3 +1,7 @@
 git init
 git add
 git commit -m
+git checkout
+git branch
+git log
+git merge
