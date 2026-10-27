@@ -5,3 +5,5 @@ git checkout
 git branch
 git log
 git merge
+git add text
+touch file.txt
